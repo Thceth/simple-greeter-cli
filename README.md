@@ -7,3 +7,4 @@ A very basic command-line interface (CLI) tool written in Python that greets a u
 ```bash
 pip install simple-greeter-cli
 Commit 2 line
+Commit 3 line
