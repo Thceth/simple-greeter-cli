@@ -8,3 +8,4 @@ A very basic command-line interface (CLI) tool written in Python that greets a u
 pip install simple-greeter-cli
 Commit 2 line
 Commit 3 line
+Commit 4 line
